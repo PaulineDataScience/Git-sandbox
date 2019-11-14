@@ -1,20 +1,6 @@
-# Ceci est un titre mais pas en majuscule
+# Python
 
-- ceci est un test de la 1è ligne
-- ceci est un test de la 2è ligne
-- ceci est un test de la 5è ligne
+This is a little project that does an addition in Python with an input file.
 
-## Super sous titre
+To execute this project, simply run: `./run.sh`
 
-- courgettes
-- poireaux
-- raclette
-- saucisses
-
-## TEST numéro 2
-
-- vacances
-- soleil
-- plage + maillot bain
-
-## &&&&&&&&&&&&&&&&&&-------&&&&&&&&&&&&&&&
